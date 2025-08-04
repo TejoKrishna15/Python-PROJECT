@@ -1,2 +1,3 @@
 # Python-PROJECT
-this is the first program
+#this is the first program
+print("HI")
